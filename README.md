@@ -2,6 +2,11 @@
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
+This code sample takes 2 inputs and creates the base64encoding for them.  This is typically used when
+creating the Basic token for Fitbit Web API applications.  For example
+
+Base64Encode(clientId, clientSecret)
+
 ## Folder Structure
 
 The workspace contains two folders by default, where:
